@@ -32,7 +32,9 @@ Again as said before, ShallowNet seems to be very robust to LRs below a reasonab
 
 For LeNet, the accuracy keeps on increasing for both the validation-accuracy curve and test-accuracy.
 
-Another observation: As the LR increases, the loss/accuracy curves become noisy. This increasing noise can be most significantly observed in the "blue" validation-loss curves. Not saying that the lower the noise the better, but it looks like that as the noise factor gets too high, the accuracy starts dropping. There might be some kind of a correlation between this noise and the overall accuracy. 
+#### An observation about noise: 
+
+As the LR increases, the loss/accuracy curves become noisy. This increasing noise can be most significantly observed in the "blue" validation-loss curves. Not saying that the lower the noise the better, but it looks like that as the noise factor gets too high, the accuracy starts dropping. There might be some kind of a correlation between this noise and the overall accuracy. 
 
 ## Suggestions for improvements:
 
