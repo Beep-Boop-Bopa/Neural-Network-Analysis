@@ -1,0 +1,19 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+![](Learning Rate_ 0.001.png)
+![](Learning Rate_ 0.003.png)
+
+![](Learning Rate_ 0.007.png)
+
+![](Learning Rate_ 0.013.png)
+
+![](Learning Rate_ 0.025.png)
+
+![](Learning Rate_ 0.05.png)
+
+![](Learning Rate_ 0.1.png)
+
+![](Learning Rate_ 0.5.png)
