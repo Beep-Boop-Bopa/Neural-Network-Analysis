@@ -1,5 +1,5 @@
 # Neural-Network-Analysis
-A brief analysis of the effects of various LR and network architectures on the final Accuracy, Precision, and Recall for model training. The data set used was Flower-17 and the trainging/test divide was around 0.75/0.25. The models were trained on google collab.
+A brief analysis of the effects of various LR and network architectures on the final Accuracy, Precision, and Recall for model training. The data set used was Flower-17 and the trainging/test divide was around 0.75/0.25. The models were trained on google collab. The code for the network architecture was copied from Adrian Rosebrock DL4CV starter bundle. 
 
 ## Accuracy/Presision/Recall
 
